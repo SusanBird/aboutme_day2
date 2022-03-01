@@ -11,7 +11,9 @@ showButton.addEventListener('click', () => {
     animal.classList.remove('hidden');
 });
 
-
+.hidden {
+    display: none;
+};
 
     // get user input
     // use user input to update state 
