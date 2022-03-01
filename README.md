@@ -14,7 +14,8 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 1. **Think about how to validate each of your features according to a Definition of Done**
 1. **Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.**
 
-- template in html: head, body, main, footer
+- draw wireframe
+- fiil in template in html: head, main, footer
 - add text to header, section & text to main (name/pronouns/animal)
 - add button to section and hidden div
 - style hidden class (css)
