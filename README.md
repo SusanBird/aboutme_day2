@@ -15,11 +15,11 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 1. **Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.**
 
 - draw wireframe
-- fiil in template in html: head, main, footer
+- fill in template in html: head, main, footer
 - add text to header, section & text to main (name/pronouns/animal)
 - add button to section and hidden div
-- style hidden class (css)
 - add event listener for button click in app.js
+- style hidden class (css)
 - add more styling 
 
 
