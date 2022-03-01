@@ -3,8 +3,8 @@ body {
 
     --color1: white;
     --color2: white;
-    --color3: white;
-    --color4: white;
+    --color3: rgb(147, 223, 157);
+    --color4: rgb(182, 144, 204);
     --color5: white;
 
     /* https://coolors.co/generate and click export -> scss to get the colors to copy and paste below*/
@@ -39,7 +39,7 @@ main {
 }
 
 section {
-    background-color: var(--color5);
+    background-color: var(--color4);
     max-width: 80%;
     display: flex;
     flex-direction: column;
